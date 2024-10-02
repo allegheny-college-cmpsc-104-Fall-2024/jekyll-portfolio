@@ -1,11 +1,23 @@
 ---
 layout: default
-modal-id: 1
-date: 2014-07-18
+modal-id: "portfolioModal-1"
+title: "Project 1"
+date: 2024-10-01
 img: cabin.png
-alt: image-alt
+alt: "Cabin Image"
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: "This is a brief description of Project 1."
 ---
+
+## Additional Information
+
+Add more details about the project in markdown format.
+
+### Key Features
+- Feature 1: Descriptive text here.
+- Feature 2: More details here.
+- Feature 3: Even more information.
+
+### Conclusion
