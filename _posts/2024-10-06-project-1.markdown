@@ -1,13 +1,13 @@
 ---
 layout: default
-modal-id: "portfolioModal-1"
+modal-id: "portfolio-1"
 title: "Project 1"
 date: 2024-10-06
 img: cabin.png
 alt: "Cabin Image"
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: BE
+category: Data Process
 description: "This is a brief description of Project 1."
 ---
 
